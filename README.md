@@ -22,6 +22,7 @@ Python • SQL Server / T-SQL • Power BI • Supabase • PowerShell • JavaS
 - **[wallpaper-studio](https://github.com/killerxd00/wallpaper-studio)** — Papel de parede por monitor, com ajuste fino de escala, posição, rotação e perspectiva em cada tela.
 - **[spotify-na-barra](https://github.com/killerxd00/spotify-na-barra)** — Mini player do Spotify na barra de tarefas, com painel estilo macOS.
 - **[tv-caster](https://github.com/killerxd00/tv-caster)** — Envia vídeo ou a tela do PC para a TV via DLNA.
+- **[jarvis-ptbr](https://github.com/killerxd00/jarvis-ptbr)** — Assistente de voz local em português ("Hey Jarvis"): Whisper para ouvir, Kokoro para falar e Ollama para pensar, tudo no próprio PC.
 
 ### Extensões e web
 - **[pip-flutuante](https://github.com/killerxd00/pip-flutuante)** — Extensão do Chrome: vídeo em janela flutuante sobre todos os apps.
