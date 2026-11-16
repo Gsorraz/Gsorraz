@@ -1,12 +1,12 @@
 # Olá, eu sou o Gian 👋
 
-T.I. | Empresário na área de Service Desk | Cursando Tecnologia em Banco de Dados na UNINOVE
+Analista de Suporte Técnico N1/N2 | Tecnologia em Banco de Dados (UNINOVE, conclusão em dez/2026)
 
-Trabalho com suporte técnico N1/N2, infraestrutura (Windows Server, Active Directory) e ERP, e venho me especializando em Dados: SQL Server (T-SQL, ETL), automações em Python e dashboards em Power BI para acompanhar operação e indicadores no dia a dia.
+Trabalho com suporte técnico N1/N2 a sistemas de gestão (ERP) e automação comercial: investigo a falha e corrijo os dados direto em SQL Server, com consultas T-SQL. Também atuo com rotinas de ETL, integração via API REST e infraestrutura (Windows Server, Active Directory). Nas horas livres, escrevo ferramentas em Python para automatizar tarefas do dia a dia.
 
 ## Stack
 
-Python • SQL Server / T-SQL • Power BI • Supabase • PowerShell • JavaScript • Windows Server / Active Directory
+SQL Server / T-SQL • ETL • API REST • Python • PowerShell • JavaScript • Windows Server / Active Directory
 
 ## Projetos
 
