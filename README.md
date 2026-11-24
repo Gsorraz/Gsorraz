@@ -25,7 +25,6 @@ SQL Server / T-SQL • ETL • API REST • Python • PowerShell • JavaScript
 - **[jarvis-ptbr](https://github.com/Gsorraz/jarvis-ptbr)** — Assistente de voz local em português ("Hey Jarvis"): Whisper para ouvir, Kokoro para falar e Ollama para pensar, tudo no próprio PC.
 
 ### Extensões e web
-- **[pip-flutuante](https://github.com/Gsorraz/pip-flutuante)** — Extensão do Chrome: vídeo em janela flutuante sobre todos os apps.
 - **[extensoes-instagram](https://github.com/Gsorraz/extensoes-instagram)** — IG Desk e IG Seguidores: extensões do Chrome para usar o Instagram no computador.
 - **[sala-de-transmissao](https://github.com/Gsorraz/sala-de-transmissao)** — Transmissão de tela ao vivo com chat, direto entre navegadores (WebRTC).
 
@@ -36,3 +35,7 @@ SQL Server / T-SQL • ETL • API REST • Python • PowerShell • JavaScript
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/gian-sorraz)
+
+Se algum projeto te ajudou, você pode me pagar um café:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-gsorraz-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/gsorraz)
